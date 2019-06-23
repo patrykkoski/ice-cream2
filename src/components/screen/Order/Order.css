@@ -1,0 +1,29 @@
+.order {
+  margin: 10px;
+  background-color: white;
+  padding: 10px;
+  color: rgb(45, 114, 45);
+  border-radius: 10px;
+  box-shadow: 0px 10px 15px -10px rgba(0, 0, 0, 0.75);
+  text-align: center;
+}
+.order-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.order p {
+  color: black;
+}
+.order-item {
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0px 10px 15px -10px rgba(0, 0, 0, 0.75);
+}
+.order-button {
+  background: rgb(199, 8, 8);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+}
