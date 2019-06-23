@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ice-cream2/static/css/main.26ce2c58.chunk.css",
+    "main.js": "/ice-cream2/static/js/main.e3c91a97.chunk.js",
+    "main.js.map": "/ice-cream2/static/js/main.e3c91a97.chunk.js.map",
+    "runtime~main.js": "/ice-cream2/static/js/runtime~main.5436c30f.js",
+    "runtime~main.js.map": "/ice-cream2/static/js/runtime~main.5436c30f.js.map",
+    "static/js/2.c4447f90.chunk.js": "/ice-cream2/static/js/2.c4447f90.chunk.js",
+    "static/js/2.c4447f90.chunk.js.map": "/ice-cream2/static/js/2.c4447f90.chunk.js.map",
+    "index.html": "/ice-cream2/index.html",
+    "precache-manifest.1e0d4f547e3ad1bd92ce972f784d24b8.js": "/ice-cream2/precache-manifest.1e0d4f547e3ad1bd92ce972f784d24b8.js",
+    "service-worker.js": "/ice-cream2/service-worker.js",
+    "static/css/main.26ce2c58.chunk.css.map": "/ice-cream2/static/css/main.26ce2c58.chunk.css.map",
+    "static/media/logo.svg": "/ice-cream2/static/media/logo.5d5d9eef.svg"
+  }
+}
